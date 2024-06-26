@@ -9,7 +9,7 @@ packages = [{include = "telegram_auth"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 django = "^5.0.6"
-djangorestframework = "^3.15.1"
+djangorestframework = "^3.15.2"
 django-cors-headers = "^4.3.1"
 drf-social-oauth2 = "^2.2.0"
 
